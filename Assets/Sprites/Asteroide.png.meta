@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: e7800a946e2c9bd4598988da4ee4d592
+timeCreated: 1513281736
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Asteroide_Grande_0
+    21300002: Asteroide_Grande_1
+    21300004: Asteroide_Grande_2
+    21300006: Asteroide_Grande_3
+    21300008: Asteroide_Grande_4
+    21300010: Asteroide_Grande_5
+    21300012: Asteroide_Grande_6
+    21300014: Asteroide_Grande_7
+    21300016: Asteroide_Mediano_0
+    21300018: Asteroide_Mediano_1
+    21300020: Asteroide_Mediano_2
+    21300022: Asteroide_Mediano_3
+    21300024: Asteroide_Mediano_4
+    21300026: Asteroide_Mediano_5
+    21300028: Asteroide_Mediano_6
+    21300030: Asteroide_Mediano_7
+    21300032: "Asteroide_Peque\xF1o_0"
+    21300034: "Asteroide_Peque\xF1o_1"
+    21300036: "Asteroide_Peque\xF1o_2"
+    21300038: "Asteroide_Peque\xF1o_3"
+    21300040: "Asteroide_Peque\xF1o_4"
+    21300042: "Asteroide_Peque\xF1o_5"
+    21300044: "Asteroide_Peque\xF1o_6"
+    21300046: "Asteroide_Peque\xF1o_7"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asteroide_Grande_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 626
+        width: 412
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Grande_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 592
+        width: 376
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Grande_2
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 556
+        width: 328
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Grande_3
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 581
+        width: 374
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Grande_4
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 631
+        width: 408
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Grande_5
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 590
+        width: 374
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Grande_6
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 552
+        width: 327
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Grande_7
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 579
+        width: 369
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Mediano_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 206
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Mediano_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 364
+        width: 179
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Mediano_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 350
+        width: 154
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Mediano_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 354
+        width: 179
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Mediano_4
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 379
+        width: 200
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Mediano_5
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 359
+        width: 181
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Mediano_6
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 341
+        width: 164
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Asteroide_Mediano_7
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 352
+        width: 174
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Asteroide_Peque\xF1o_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 105
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Asteroide_Peque\xF1o_1"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 247
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Asteroide_Peque\xF1o_2"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 242
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Asteroide_Peque\xF1o_3"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 248
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Asteroide_Peque\xF1o_4"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 252
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Asteroide_Peque\xF1o_5"
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 240
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Asteroide_Peque\xF1o_6"
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 236
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Asteroide_Peque\xF1o_7"
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 240
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
